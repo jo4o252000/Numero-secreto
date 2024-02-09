@@ -2,8 +2,8 @@
 
 :root{
     --font-family: 'Roboto', sans-serif;
-    --bg-color:#070A52;
-    --primary-color: #F15A59;
+    --bg-color:#bbff00;
+    --primary-color: #14f300;
 }
 
 body{
@@ -46,5 +46,5 @@ h3{
     background-color: var(--primary-color);
     border-radius: 5px;
     margin-top: 20px;
-    color: black;
+    color: rgb(255, 0, 0);
 }
